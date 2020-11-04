@@ -4,5 +4,5 @@
 - Networking: HTTP, AJAX
 - Testing / Debugging: Chrome Dev Tools
 - Operation System: Windows
-- Other Tools: VS Code, WebStorm (basic), Figma, Photoshop, Git, Git Bash
+- Other Tools: VS Code, WebStorm, Figma, Photoshop, Git, Git Bash
 - Experienced with: Scrum and Agile
